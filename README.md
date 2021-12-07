@@ -20,7 +20,7 @@
  <img align="center" alt"spring" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
  <img align="center" alt"MySQL" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
  <img align="right" alt="Erika-pic" height="150" style="border-radius:50px;" 
-  src="https://drive.google.com/file/d/1yWohHJy3hwYEjD9wlDBgJDCDfJAGXNFY/view?usp=sharing">
+  src="https://d1a370nemizbjq.cloudfront.net/5296fdf5-ab0a-4006-8c6c-c11e75b85c86.glb">
  </div>
   
   
