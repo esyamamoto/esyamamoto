@@ -5,12 +5,20 @@
 -  Bacharel em Publicidade e Propaganda
 -  Pronomes: Ela/Dela
 
+
+<h4 align="center">
+<img align="center" alt="gif-Erika" src="https://cdn.discordapp.com/attachments/850230792348762133/917823574692225094/Debbie_Balboa.gif">
+
+  
+  
+ 
 <h4 align="center">
   <a href="https://github.com/esyamamoto">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=esyamamoto&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esyamamoto&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=esyamamoto&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esyamamoto&layout=compact&langs_count=7&theme=midnight-purple"/>
+ 
   
+ 
  <h4 align="center">
  <img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
  <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
@@ -19,9 +27,8 @@
  <img align="center" alt"angular" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"/>
  <img align="center" alt"spring" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
  <img align="center" alt"MySQL" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
- <img align="right" alt="Erika-pic" height="150" style="border-radius:50px;" 
-  src="https://media.discordapp.net/attachments/850230792348762133/917782229202116648/ERIKA.png">
- </div>
+ 
+
   
   
 ##
