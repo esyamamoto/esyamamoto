@@ -7,7 +7,7 @@
 
 ##
 <h4 align="center">
-<img align="center"  height="350" alt="gif-Erika" src="https://cdn.discordapp.com/attachments/850230792348762133/917823574692225094/Debbie_Balboa.gif">
+<img align="center"  height="350" alt="gif-Erika" src="https://cdn.discordapp.com/attachments/850230792348762133/918598256752222258/esse.gif">
 
  
 <h4 align="center">
