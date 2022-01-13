@@ -1,6 +1,7 @@
 ## Olá, eu sou a Erika✨
 
 -  Desenvolvedora em formação pela Generation Brasil
+   @https://www.linkedin.com/school/generationbrasil/
 -  Estudando Java
 -  Bacharel em Publicidade e Propaganda
 -  Pronomes: Ela/Dela
