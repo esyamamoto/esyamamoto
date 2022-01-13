@@ -3,7 +3,7 @@
 -  Desenvolvedora em formação pela Generation Brasil
    @https://www.linkedin.com/school/generationbrasil/
 -  Estudando Java
--  Bacharel em Publicidade e Propaganda
+-  Bacharel em Comunicação Social - Publicidade e Propaganda
 -  Pronomes: Ela/Dela
 
 ##
