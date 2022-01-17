@@ -1,6 +1,6 @@
 ## Olá, eu sou a Erika✨
 
--  Desenvolvedora em formação pela Generation Brasil
+-  Desenvolvedora em formação pela Generation Brasil - Turma 43
    @https://www.linkedin.com/school/generationbrasil/
 -  Estudando Java
 -  Bacharel em Comunicação Social - Publicidade e Propaganda
