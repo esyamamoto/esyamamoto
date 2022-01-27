@@ -1,8 +1,7 @@
 ## Olá, eu sou a Erika✨
 
 -  Desenvolvedora Web Full-Stack Júnior 
--  Em formação pela Generation Brasil - Turma 43
-   : https://brazil.generation.org e https://www.linkedin.com/school/generationbrasil/
+-  Em formação pela Generation Brasil - Turma 43: https://brazil.generation.org e https://www.linkedin.com/school/generationbrasil/
 -  Estudando Java
 -  Bacharel em Comunicação Social - Publicidade e Propaganda
 -  Pronomes: Ela/Dela
