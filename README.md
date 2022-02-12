@@ -1,9 +1,9 @@
 ## Olá, eu sou a Erika✨
 
--  Desenvolvedora Web Full-Stack Júnior 
+-  Desenvolvedora Web Full-Stack Júnior 👩‍💻
 -  Em formação pela <a href= "https://brazil.generation.org">Generation Brasil </a> - Turma 43 <a href="https://www.linkedin.com/school/generationbrasil/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="18px"></img></a>
--  Estudando Java
--  Bacharel em Comunicação Social - Publicidade e Propaganda
+-  Estudando Java ☕ | Sql 🐬 | Spring 🍃 | Angular 🅰️
+-  Bacharel em Comunicação Social - Publicidade e Propaganda 📚
 -  Pronomes: Ela/Dela
 
 ##
@@ -23,7 +23,7 @@
  <img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/> +
  <img align="center" alt"spring" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/> +
  <img align="center" alt="Git" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"/> +
- <img align="center" alt"MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/> 
+ <img align="center" alt"MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/> +
   </h4> 
  <h4 align="center"> 
  <img align="center" alt="Js" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> +
