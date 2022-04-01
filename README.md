@@ -5,6 +5,7 @@
 -  Estudando Java ☕ | Sql 🐬 | Spring 🍃 | Angular 🅰️
 -  Bacharel em Comunicação Social - Publicidade e Propaganda 📚
 -  Pronomes: Ela/Dela
+-  Me formei na área de publicidade e propaganda, onde me deparei com front-end, nos 2 trabalhos voluntários que realizei. Desde então, essa jornada em tecnologia virou meu sonho e eu me aprofundei na área e pude trabalhar as hard e soft skills de uma desenvolvedora e, hoje, tenho certeza dessa mudança de carreira e estou pronta para esse desafio. 
 
 ##
 <h4 align="center">
