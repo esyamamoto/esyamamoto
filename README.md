@@ -2,10 +2,11 @@
 
 -  Desenvolvedora Web Full-Stack Júnior 👩‍💻
 -  Em formação pela <a href= "https://brazil.generation.org">Generation Brasil </a> - Turma 43 <a href="https://www.linkedin.com/school/generationbrasil/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="18px"></img></a>
--  Estudando Java ☕ | Sql 🐬 | Spring 🍃 | Angular 🅰️
+-  Estudando Java ☕ | Sql 🐬 | Spring 🍃 | Angular 🅰️ | React ⚛️ 
 -  Bacharel em Comunicação Social - Publicidade e Propaganda 📚
 -  Pronomes: Ela/Dela
--  Me formei na área de publicidade e propaganda, onde me deparei com front-end, nos 2 trabalhos voluntários que realizei. Desde então, essa jornada em tecnologia virou meu sonho e eu me aprofundei na área e pude trabalhar as hard e soft skills de uma desenvolvedora e, hoje, tenho certeza dessa mudança de carreira e estou pronta para esse desafio. 
+-  Me formei na área de publicidade e propaganda, onde me deparei com front-end, nos 2 trabalhos voluntários que realizei. Desde então, essa jornada em tecnologia virou meu sonho e com o Bootcamp da Generation, e outros cursos técnicos das plataformas da Origamid, Udemy , DIO e Alura, eu pude me aprofundar na área e pude trabalhar as hard e soft skills de uma desenvolvedora e, hoje, tenho certeza dessa mudança de carreira e estou pronta para esse desafio como uma Desenvolvedora Web Full-Stack Java Jr.
+
 
 ##
 <h4 align="center">
