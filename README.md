@@ -3,9 +3,8 @@
 -  Desenvolvedora Web Full-Stack Júnior 👩‍💻
 -  Estudando Java ☕ | Sql 🐬 | Spring 🍃 | Angular 🅰️ 
 -  Bacharel em Comunicação Social - Publicidade e Propaganda 📚
--  Cursando: Análise e Desenvolvimento de Sistemas 📚
+-  Cursando: Análise e Desenvolvimento de Sistemas 📚 - término previsto para julho/2024
 -  Realizei o Bootcamp da <a href= "https://brazil.generation.org">Generation Brasil </a> - Turma 43 <a href="https://www.linkedin.com/school/generationbrasil/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="18px"></img></a>
--  Em andamento <a href= "https://brazil.generation.org](https://app.becas-santander.com/pt-BR/application/share-granted/bolsas-santander-tecnologia-santander-bootcamp-2022?program=Becas%20Santander%20Tecnolog%C3%ADa%20%7C%20Santander%20Bootcamp%202022&id=620facc2142974001683b3c4&doc=3dug73nl3lngb6o&sharedId=628e357f7e26170016c342f8)" >Becas Santander Tecnología | Santander Bootcamp 2022</a>
 -  Pronomes: Ela/Dela
 -  Me formei na área de publicidade e propaganda, onde me deparei com front-end, nos 2 trabalhos voluntários que realizei. Desde então, essa jornada em tecnologia virou meu sonho e com o Bootcamp da Generation, e outros cursos técnicos das plataformas da Origamid, Udemy , DIO e Alura, eu pude me aprofundar na área e pude trabalhar as hard e soft skills de uma desenvolvedora e, hoje, tenho certeza dessa mudança de carreira.
 
