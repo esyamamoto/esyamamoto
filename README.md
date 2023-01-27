@@ -1,7 +1,7 @@
 ## Olá, eu sou a Erika✨
 
 -  Desenvolvedora Web Full-Stack Júnior 👩‍💻
--  Estudando Java ☕ | Sql 🐬 | Spring 🍃 | Angular 🅰️ 
+-  Estudando Java ☕ | Sql 🐬 | Spring 🍃 | Angular 🅰️ | React ⚛️
 -  Bacharel em Comunicação Social - Publicidade e Propaganda 📚
 -  Cursando: Análise e Desenvolvimento de Sistemas 📚 - término previsto para julho/2024
 -  Realizei o Bootcamp da <a href= "https://brazil.generation.org">Generation Brasil </a> - Turma 43 <a href="https://www.linkedin.com/school/generationbrasil/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="18px"></img></a>
