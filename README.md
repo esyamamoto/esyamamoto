@@ -4,6 +4,7 @@
 -  Estudando Java ☕ | Sql 🐬 | Spring 🍃 | React ⚛️
 -  Bacharel em Comunicação Social - Publicidade e Propaganda 📚
 -  Cursando: Análise e Desenvolvimento de Sistemas 📚 - término previsto para julho/2024
+-  Cursando: Bootcamp Trybe 📚 - término previsto para maio/2024 <a href="[https://www.linkedin.com/school/generationbrasil/](https://www.linkedin.com/school/betrybe/)" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="18px"></img></a>
 -  Realizei o Bootcamp da <a href= "https://brazil.generation.org">Generation Brasil </a> - Turma 43 <a href="https://www.linkedin.com/school/generationbrasil/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="18px"></img></a>
 -  Meu nome é Erika Sayuri Yamamoto, tenho 27 anos e sou formada em publicidade e propaganda. Na graduação me deparei com front-end, nos 2 trabalhos voluntários que realizei, desde então comecei a percorrer meu sonho de seguir nessa área e com o Bootcamp da Generation, e outros cursos técnicos das plataformas da Origamid, Udemy , DIO , Alura e a Faculdade de Análise e Desenvolvimento de Sistemas, eu estou me aprofundando na área e hoje, tenho certeza dessa mudança de carreira como Desenvolvedora Web Full-Stack.
 
