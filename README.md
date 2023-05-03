@@ -1,7 +1,7 @@
 ## Olá, eu sou a Erika✨
 
 -  Desenvolvedora Web Full-Stack Júnior 👩‍💻
--  Estudando Java ☕ | Sql 🐬 | Spring 🍃 | React ⚛️
+-  Estudando Java ☕ | Sql 🐬 | Spring 🍃 | JavaScript 💻 | React ⚛️
 -  Bacharel em Comunicação Social - Publicidade e Propaganda 📚
 -  Cursando: Análise e Desenvolvimento de Sistemas, graduação pela <a href="https://estacio.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas"> Estácio </a>  📚 - término previsto para julho/2024
 -  Cursando: Bootcamp <a href= "https://www.betrybe.com/?utm_term=trybe&utm_campaign=*%5BSearch%5D+Brand_BRA&utm_source=adwords&utm_medium=ppc&hsa_acc=1466424558&hsa_cam=12085736593&hsa_grp=146119280611&hsa_ad=617838452283&hsa_src=g&hsa_tgt=kwd-468157942290&hsa_kw=trybe&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjw3POhBhBQEiwAqTCuBs52OLvqdN6Kdgqd9dBa-ArtmFFeXuTdHt5xrQI_4htWXjjIEqBIdhoCcq8QAvD_BwE">Trybe </a> 📚 - término previsto para maio/2024 <a href="[https://www.linkedin.com/school/generationbrasil/](https://www.linkedin.com/school/betrybe/)" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="18px"></img></a>
