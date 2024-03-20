@@ -7,7 +7,6 @@
 -  Realizei o Bootcamp da <a href= "https://brazil.generation.org">Generation Brasil </a> - Turma 43 <a href="https://www.linkedin.com/school/generationbrasil/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="18px"></img></a>
 -  Meu nome é Erika Sayuri Yamamoto, sou formada em publicidade e propaganda e na graduação me deparei com a área de tecnologia. Minha jornada iniciou-se por meio de dois trabalhos voluntários, nos quais percebi a paixão pela tecnologia, motivando minha transição de carreira.
 Atualmente, estou imersa em minha jornada de aprimoramento profissional, focada em desenvolver projetos e aprimorar minhas habilidades na área, por meio do curso técnico da Trybe e a Faculdade de Análise e Desenvolvimento de Sistemas, estou construindo uma base sólida e aprofundando meus conhecimentos.
-- email: erika.s.yamamoto@gmail.com
 
 - Estou aberta a novas oportunidades como desenvolvedora.
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erikasyamamoto/) 
