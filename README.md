@@ -1,7 +1,7 @@
 ## Olá, eu sou a Erika✨
 
 -  Desenvolvedora web Full-Stack  👩‍💻
--  Cursando: Análise e Desenvolvimento de Sistemas, graduação pela <a href="https://estacio.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas"> Estácio </a> - término previsto para 2025
+-  Cursando: Análise e Desenvolvimento de Sistemas, graduação pela <a href="https://estacio.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas"> Estácio </a> - término dez/2025
 -  Curso Técnico de Desenvolvimento Web FullSTack pela  <a href= "https://www.betrybe.com/?utm_term=trybe&utm_campaign=*%5BSearch%5D+Brand_BRA&utm_source=adwords&utm_medium=ppc&hsa_acc=1466424558&hsa_cam=12085736593&hsa_grp=146119280611&hsa_ad=617838452283&hsa_src=g&hsa_tgt=kwd-468157942290&hsa_kw=trybe&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjw3POhBhBQEiwAqTCuBs52OLvqdN6Kdgqd9dBa-ArtmFFeXuTdHt5xrQI_4htWXjjIEqBIdhoCcq8QAvD_BwE"> Trybe </a> <a href="https://www.linkedin.com/school/betrybe/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="18px"></img></a>
 -  Meu nome é Erika Sayuri Yamamoto, sou formada em publicidade e propaganda e na graduação me deparei com a área de tecnologia. Minha jornada iniciou-se por meio de dois trabalhos voluntários, nos quais percebi a paixão pela tecnologia, motivando minha transição de carreira.
 Atualmente, estou imersa em minha jornada de aprimoramento profissional, focada em desenvolver projetos e aprimorar minhas habilidades na área, por meio do curso técnico da Trybe e a Faculdade de Análise e Desenvolvimento de Sistemas, estou construindo uma base sólida e aprofundando meus conhecimentos.
@@ -9,6 +9,8 @@ Atualmente, estou imersa em minha jornada de aprimoramento profissional, focada 
 - Estou aberta a novas oportunidades como desenvolvedora.
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erikasyamamoto/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erika.s.yamamoto@gmail.com)
+
+- [README in English](README-EN.md)
 
 ##
 <h4 align="center">
