@@ -8,7 +8,7 @@ Atualmente, estou imersa em minha jornada de aprimoramento profissional, focada 
 
 - Estou aberta a novas oportunidades como desenvolvedora.
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erikasyamamoto/) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erika.s.yamamoto@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:e.sayuri.yamamoto@gmail.com)
 
 - [README in English](README-EN.md)
 
