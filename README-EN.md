@@ -1,6 +1,5 @@
 ## Hello, I’m Erika✨
-
-- **Full-Stack Web Developer** 👩‍💻
+- Data Analyst in training • Python • SQL • Power BI • Full-Stack Web Development 👩‍💻
 - **Currently studying**: Systems Analysis and Development at [Estácio](https://estacio.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas) - expected graduation 2026
 - **Technical Course in Full-Stack Web Development** at [Trybe](https://www.betrybe.com/?utm_term=trybe&utm_campaign=*%5BSearch%5D+Brand_BRA&utm_source=adwords&utm_medium=ppc&hsa_acc=1466424558&hsa_cam=12085736593&hsa_grp=146119280611&hsa_ad=617838452283&hsa_src=g&hsa_tgt=kwd-468157942290&hsa_kw=trybe&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjw3POhBhBQEiwAqTCuBs52OLvqdN6Kdgqd9dBa-ArtmFFeXuTdHt5xrQI_4htWXjjIEqBIdhoCcq8QAvD_BwE) <a href="https://www.linkedin.com/school/betrybe/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="18px"></a>
 
