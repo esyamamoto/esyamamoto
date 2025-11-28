@@ -5,7 +5,7 @@
 
 - I am passionate about technology and currently transitioning into the Data field, building a strong foundation in Python, SQL, Exploratory Analysis, Data Visualization, and Business Intelligence. I come from a full-stack web development background, which gives me a broad understanding of systems, logic, and problem-solving. I am currently studying Systems Analysis and Development at Estácio and deepening my Data skills through the Data Science Academy, combining theory with hands-on practice and real projects.
 
-- I am open to new opportunities as a developer.
+- I am open to new opportunities as a developer including affirmative positions (PCD).
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erikasyamamoto/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erika.s.yamamoto@gmail.com)
