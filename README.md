@@ -6,7 +6,7 @@
 -  Sou apaixonada por tecnologia e atualmente estou em transição para a área de Dados, construindo uma base sólida em Python, SQL, Análise Exploratória, Visualização e Business Intelligence. Venho da área de desenvolvimento web full-stack, o que me dá uma visão ampla de sistemas, lógica e resolução de problemas.
 Atualmente estudo na Estácio (ADS) e me aprofundo em Dados por meio da Data Science Academy, aliando teoria e prática com projetos reais.
 
-- 📬 **Estou aberta a novas oportunidades.**
+- 📬 **Estou aberta a novas oportunidades** incluindo vagas afirmativas (PCD).
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erikasyamamoto/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:e.sayuri.yamamoto@gmail.com)
 
