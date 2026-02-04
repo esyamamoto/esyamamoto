@@ -1,11 +1,11 @@
 ## Hello, I’m Erika✨
-- Data Analyst in training • Python • SQL • Power BI • Full-Stack Web Development 👩‍💻
+- Data Analyst in training • Python • SQL • Power BI • Data Cleaning • Background Full-Stack Web Development 👩‍💻
 - **Currently studying**: Systems Analysis and Development at [Estácio](https://estacio.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas) - expected graduation 2026
 - **Technical Course in Full-Stack Web Development** at [Trybe](https://www.betrybe.com/?utm_term=trybe&utm_campaign=*%5BSearch%5D+Brand_BRA&utm_source=adwords&utm_medium=ppc&hsa_acc=1466424558&hsa_cam=12085736593&hsa_grp=146119280611&hsa_ad=617838452283&hsa_src=g&hsa_tgt=kwd-468157942290&hsa_kw=trybe&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjw3POhBhBQEiwAqTCuBs52OLvqdN6Kdgqd9dBa-ArtmFFeXuTdHt5xrQI_4htWXjjIEqBIdhoCcq8QAvD_BwE) <a href="https://www.linkedin.com/school/betrybe/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="18px"></a>
 
 - I am passionate about technology and currently transitioning into the Data field, building a strong foundation in Python, SQL, Exploratory Analysis, Data Visualization, and Business Intelligence. I come from a full-stack web development background, which gives me a broad understanding of systems, logic, and problem-solving. I am currently studying Systems Analysis and Development at Estácio and deepening my Data skills through the Data Science Academy, combining theory with hands-on practice and real projects.
 
-- I am open to new opportunities as a developer including affirmative positions (PCD).
+- I am open to new opportunities as a developer including affirmative positions (PCD CID M23.5; M75; Z98.8 ).
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erikasyamamoto/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erika.s.yamamoto@gmail.com)
@@ -41,12 +41,6 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-- #### Front-end
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 - #### Test
 ![Jest](https://img.shields.io/badge/Jest-FFF?style=for-the-badge&logo=jest&logoColor=C03B13)
