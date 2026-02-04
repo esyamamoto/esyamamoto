@@ -1,12 +1,12 @@
 ## Olá, eu sou a Erika✨
 
--  Analista de Dados em formação • Python • SQL • Power BI • Desenvolvimento Web Full-Stack  👩‍💻
+-  Analista de Dados em formação • Python • SQL • Power BI • Limpeza de dados • Background em Desenvolvimento Web Full-Stack  👩‍💻
 -  Cursando: Análise e Desenvolvimento de Sistemas, graduação pela <a href="https://estacio.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas"> Estácio </a> - término 2026
 -  Curso Técnico de Desenvolvimento Web FullSTack pela  <a href= "https://www.betrybe.com/?utm_term=trybe&utm_campaign=*%5BSearch%5D+Brand_BRA&utm_source=adwords&utm_medium=ppc&hsa_acc=1466424558&hsa_cam=12085736593&hsa_grp=146119280611&hsa_ad=617838452283&hsa_src=g&hsa_tgt=kwd-468157942290&hsa_kw=trybe&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjw3POhBhBQEiwAqTCuBs52OLvqdN6Kdgqd9dBa-ArtmFFeXuTdHt5xrQI_4htWXjjIEqBIdhoCcq8QAvD_BwE"> Trybe </a> <a href="https://www.linkedin.com/school/betrybe/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="18px"></img></a>
 -  Sou apaixonada por tecnologia e atualmente estou em transição para a área de Dados, construindo uma base sólida em Python, SQL, Análise Exploratória, Visualização e Business Intelligence. Venho da área de desenvolvimento web full-stack, o que me dá uma visão ampla de sistemas, lógica e resolução de problemas.
 Atualmente estudo na Estácio (ADS) e me aprofundo em Dados por meio da Data Science Academy, aliando teoria e prática com projetos reais.
 
-- 📬 **Estou aberta a novas oportunidades** incluindo vagas afirmativas (PCD).
+- 📬 **Estou aberta a novas oportunidades** incluindo vagas afirmativas • (PCD CID M23.5; M75; Z98.8 )
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erikasyamamoto/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:e.sayuri.yamamoto@gmail.com)
 
@@ -41,13 +41,6 @@ Atualmente estudo na Estácio (ADS) e me aprofundo em Dados por meio da Data Sci
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-- #### Front-end
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 - #### Test
 ![Jest](https://img.shields.io/badge/Jest-FFF?style=for-the-badge&logo=jest&logoColor=C03B13)
